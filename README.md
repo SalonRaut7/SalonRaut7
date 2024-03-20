@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salon Raut</h1>
 <h3 align="center">Enthusiastic Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salonraut7&label=Profile%20views&color=0e75b6&style=flat" alt="salonraut7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salonraut7" alt="salonraut7" /></a> </p>
 
