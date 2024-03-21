@@ -29,3 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salonraut7&show_icons=true&locale=en" alt="salonraut7" /></p>
 
+<p align="center">
+  <img src="https://github.com/SalonRaut7/SalonRaut7/blob/output/snake.svg" alt="Snake Animation" />
+</p>
+
