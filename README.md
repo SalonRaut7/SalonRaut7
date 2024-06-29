@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic Computer Engineering Student</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salonraut7" alt="salonraut7" /></a> </p>
+
 
 - 🌱 I’m currently learning **Django**
 
