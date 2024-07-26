@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
